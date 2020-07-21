@@ -32,10 +32,9 @@ subject.
 |VI| no hiatus avoidance | > 35 % |
 
 <br>
-<h2>Some Examples</h2>
+<h2>Kai Hiatus</h2>
 
-...
+{% include sunburst_1.html %}
 
-{% include hiatus_2.html %}
 
 ...

@@ -41,7 +41,9 @@ subject.
 
 {% include kai_hiatus_horizontal_scatter_1.html %}
 
+<br>
 <h2>Alternatively, you can use the following chart</h2>
+<br>
 
 {% include kai_hiatus_vertical_scatter_1.html %}
 

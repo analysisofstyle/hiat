@@ -39,6 +39,10 @@ subject.
 <br>
 <h2>Kai Hiatus in Percent by Work</h2>
 
+{% kai_hiatus_horizontal_scatter_1.html %}
+
+<h2>Alternatively, you can use the following chart</h2>
+
 {% include kai_hiatus_vertical_scatter_1.html %}
 
 <br>

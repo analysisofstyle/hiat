@@ -19,7 +19,12 @@ history while this website serves the purpose of visualizing the relevant data a
 subject.
 
 <br>
-<h2>Degrees of Hiatus Avoidance</h2>
+<h2>Kai Hiatus Avoidance as a Simple Measure for General Hiatus Avoidance</h2>
+<br>
+ ...
+
+<br>
+<h2>Degrees of Kai Hiatus Avoidance</h2>
 <br>
 
 | | degree of hiatus avoidance | καί hiatus|
@@ -32,9 +37,15 @@ subject.
 |VI| no hiatus avoidance | > 35 % |
 
 <br>
-<h2>Kai Hiatus</h2>
+<h2>Kai Hiatus in Percent by Work</h2>
 
-{% include sunburst_1.html %}
+{% include kai_hiatus_vertical_scatter_1.html %}
+
+<br>
+<h2>Degrees of Kai Hiatus Avoidance at a Glance</h2>
+<br>
+{% include sunburst_2.html %}
+
 
 
 ...
